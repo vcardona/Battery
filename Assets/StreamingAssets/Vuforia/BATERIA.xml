@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="TOMMEDIO" size="1.000000 1.416427" />
+    <ImageTarget name="TOMALTO" size="1.000000 1.436069" />
+    <ImageTarget name="REDOBLE" size="1.000000 1.403467" />
+    <ImageTarget name="HIHAT" size="1.000000 1.399789" />
+    <ImageTarget name="FLOORTOM" size="1.000000 1.386132" />
+    <ImageTarget name="CRASH" size="1.000000 1.447315" />
+    <ImageTarget name="BOMBO" size="1.000000 1.447196" />
+    <ImageTarget name="BATERIA" size="1.000000 1.378859" />
+  </Tracking>
+</QCARConfig>
